@@ -1,2 +1,2 @@
 # betasisten
-Betasisten is a blablabla
+Betasisten is a schoool treasurer assistant 
